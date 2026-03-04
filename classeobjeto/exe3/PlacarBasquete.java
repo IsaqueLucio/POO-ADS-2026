@@ -36,8 +36,10 @@ public class PlacarBasquete {
 
     public void proximoQuarto(){
         this.periodoQuarto = this.periodoQuarto+1;
-        if(this.periodoQuarto >= 4){
+        if(this.periodoQuarto == 4){
             System.out.println("O jogo acabou!!!");
+        } else{
+            this.periodoQuarto++;
         }
     }
 
