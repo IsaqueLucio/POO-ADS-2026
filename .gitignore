@@ -1,0 +1,14 @@
+# Compilados
+*.class
+
+# Pastas de saída das IDEs
+bin/
+out/
+target/
+
+# Arquivos de configuração do VS Code
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
