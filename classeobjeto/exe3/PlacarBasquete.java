@@ -1,4 +1,5 @@
 package poo_ads2026.classeobjeto.exe3;
+//pacote não estava antes, adicionei para organizar melhor o código, pode ser removido se não for necessário
 
 public class PlacarBasquete {
 

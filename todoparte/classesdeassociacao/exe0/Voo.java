@@ -1,4 +1,5 @@
 package poo_ads2026.todoparte.classesdeassociacao.exe0;
+//pacote não estava antes, adicionei para organizar melhor o código, pode ser removido se não for necessário
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

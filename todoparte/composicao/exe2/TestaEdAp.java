@@ -1,4 +1,5 @@
 package poo_ads2026.todoparte.composicao.exe2;
+//pacote não estava antes, adicionei para organizar melhor o código, pode ser removido se não for necessário
 
 public class TestaEdAp {
     public static void main(String[] args) {

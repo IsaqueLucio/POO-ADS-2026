@@ -1,4 +1,5 @@
 package poo_ads2026.classeobjeto.exe0;
+//pacote não estava antes, adicionei para organizar melhor o código, pode ser removido se não for necessário
 
 class Carro{ //Classe
 

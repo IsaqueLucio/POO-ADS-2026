@@ -1,4 +1,5 @@
 package poo_ads2026.todoparte.agregacao.exe0;
+//pacote não estava antes, adicionei para organizar melhor o código, pode ser removido se não for necessário
 
 import java.util.ArrayList;
 import java.util.List;
