@@ -17,6 +17,8 @@ public class GerenciadorNotificacoes {
         gerenciador_de_notificacoes.add(whatsApp);
 
         for (CanalNotificacao f: gerenciador_de_notificacoes) {
+            f.exibirDados();
+            System.out.println("\n");
             f.enviar();
         }
         
