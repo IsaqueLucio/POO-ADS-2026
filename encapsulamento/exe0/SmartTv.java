@@ -75,4 +75,12 @@ public class SmartTv {
     public void diminuirVolume(int vol){
         this.setVolume(this.volume-vol);
     }
+    public boolean isConectadoInternet() {
+        return conectadoInternet;
+    }
+    public void setConectadoInternet(boolean conectadoInternet) {
+        this.conectadoInternet = conectadoInternet;
+    }
+    
+
 }

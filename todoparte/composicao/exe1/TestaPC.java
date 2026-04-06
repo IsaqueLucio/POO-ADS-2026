@@ -11,6 +11,6 @@ public class TestaPC {
         System.out.println(computador2);
 
         computador = null; //Destruindo o computador
-        System.out.println(computador.getProcessador()); //Vai dar erro pois como é composição o processador morreu com o computador
+        //System.out.println(computador.getProcessador()); //Vai dar erro pois como é composição o processador morreu com o computador
     }
 }

@@ -20,6 +20,6 @@ public class TestaTimeBasquete{
         if(time1 == null){
             System.out.println("Provando que mesmo com o time não exisitindo os atletas permanecem: "
             +atle1+"\n"+atle2+"\n"+atle3);
-        } else System.out.println("Não deu pra provar que deu agregação não :/");
+        } //else System.out.println("Não deu pra provar que deu agregação não :/");
     }
 }
